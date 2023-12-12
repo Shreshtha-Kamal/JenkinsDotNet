@@ -1,0 +1,15 @@
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\bin\Debug\net6.0\SampleAppForJenkins.exe
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\bin\Debug\net6.0\SampleAppForJenkins.deps.json
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\bin\Debug\net6.0\SampleAppForJenkins.runtimeconfig.json
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\bin\Debug\net6.0\SampleAppForJenkins.dll
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\bin\Debug\net6.0\SampleAppForJenkins.pdb
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\obj\Debug\net6.0\SampleAppForJenkins.csproj.AssemblyReference.cache
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\obj\Debug\net6.0\SampleAppForJenkins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\obj\Debug\net6.0\SampleAppForJenkins.AssemblyInfoInputs.cache
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\obj\Debug\net6.0\SampleAppForJenkins.AssemblyInfo.cs
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\obj\Debug\net6.0\SampleAppForJenkins.csproj.CoreCompileInputs.cache
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\obj\Debug\net6.0\SampleAppForJenkins.dll
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\obj\Debug\net6.0\refint\SampleAppForJenkins.dll
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\obj\Debug\net6.0\SampleAppForJenkins.pdb
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\obj\Debug\net6.0\SampleAppForJenkins.genruntimeconfig.cache
+D:\Development\SampleAppForJenkins\SampleAppForJenkins\obj\Debug\net6.0\ref\SampleAppForJenkins.dll
